@@ -1,18 +1,3 @@
-<style>
-  .image-gallery img {
-    display: inline-block;
-    width: 400px;
-  }
-  .image-gallery img:hover {
-    filter: brightness(110%);
-    -webkit-filter: brightness(110%);
-  }
-  img {
-    max-width: 40%;
-  }
-</style>
-
-
 
 ![GREAT RUN LOGO](assets/images/logo.png?raw=true "Great run")
 > Dora the explorer platformer game for the little children's. Easy to use one-key control (space or left click) and adjustable game speed.
@@ -52,17 +37,17 @@
 
 
 ## Menu
-![GREAT RUN LOGO](readme/1.jpg?raw=true  "Game menu")
+<a href="readme/1.jpg?raw=true" target="_blank"><img src="readme/1.jpg" width="30%"></a>
 
 
 
-## Screenshots:
+## Screenshots
 <div class="image-gallery">
-  <a href="readme/2.jpg"><img src="readme/2.jpg"></a>
-  <a href="readme/3.jpg"><img src="readme/3.jpg"></a>
-  <a href="readme/4.jpg"><img src="readme/4.jpg"></a>
-  <a href="readme/5.jpg"><img src="readme/5.jpg"></a>
-  <a href="readme/6.jpg"><img src="readme/6.jpg"></a>
+  <a href="readme/2.jpg?raw=true" target="_blank"><img src="readme/2.jpg" width="30%"></a>
+  <a href="readme/3.jpg?raw=true" target="_blank"><img src="readme/3.jpg" width="30%"></a>
+  <a href="readme/4.jpg?raw=true" target="_blank"><img src="readme/4.jpg" width="30%"></a>
+  <a href="readme/5.jpg?raw=true" target="_blank"><img src="readme/5.jpg" width="30%"></a>
+  <a href="readme/6.jpg?raw=true" target="_blank"><img src="readme/6.jpg" width="30%"></a>
 </div>
 
 
