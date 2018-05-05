@@ -1,0 +1,22 @@
+{
+"frames": [
+	{
+		"filename": "preload_bar.png",
+		"frame": {"x":0, "y":39, "w":289, "h":39},
+		"spriteSourceSize": {"x":0,"y":0,"w":289,"h":39},
+		"sourceSize": {"w":289,"h":39}
+	},
+	{
+		"filename": "preload_frame.png",
+		"frame": {"x":0, "y":0, "w":289, "h":39},
+		"spriteSourceSize": {"x":0,"y":0,"w":289,"h":39},
+		"sourceSize": {"w":289,"h":39}
+	}
+
+],
+"meta": {
+	"image": "preload_sprites_array.png",
+	"size": {"w": 289, "h": 78},
+	"scale": "1"
+}
+}

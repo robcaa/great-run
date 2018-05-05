@@ -1,0 +1,19 @@
+# IntelliJ
+.idea
+
+# Node.js
+node_modules
+
+# Game
+dist
+builds
+
+# OSX
+.DS_Store
+
+# Visual Studio
+.vs
+.vscode
+
+# Developer files
+_developer_files

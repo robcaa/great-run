@@ -1,0 +1,45 @@
+{
+  "resources": [
+    "output.ogg",
+    "output.m4a",
+    "output.mp3",
+    "output.ac3"
+  ],
+  "spritemap": {
+    "bump": {
+      "start": 0,
+      "end": 0.2146938775510204,
+      "loop": false
+    },
+    "coin": {
+      "start": 2,
+      "end": 2.945487528344671,
+      "loop": false
+    },
+    "die": {
+      "start": 4,
+      "end": 6.7122902494331065,
+      "loop": false
+    },
+    "jump": {
+      "start": 8,
+      "end": 8.590113378684807,
+      "loop": false
+    },
+    "kick": {
+      "start": 10,
+      "end": 10.181179138321996,
+      "loop": false
+    },
+    "pause": {
+      "start": 12,
+      "end": 12.685170068027212,
+      "loop": false
+    },
+    "stage_clear": {
+      "start": 14,
+      "end": 20.17061224489796,
+      "loop": false
+    }
+  }
+}

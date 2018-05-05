@@ -1,0 +1,105 @@
+{"frames": [
+	{
+		"filename": "button",
+		"frame": {"x":0,"y":142,"w":190,"h":49},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":190,"h":49},
+		"sourceSize": {"w":190,"h":49}
+	},
+	{
+		"filename": "button_pressed",
+		"frame": {"x":0,"y":191,"w":190,"h":45},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":190,"h":45},
+		"sourceSize": {"w":190,"h":45}
+	},
+	{
+		"filename": "checkbox",
+		"frame": {"x":38,"y":42,"w":38,"h":36},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":38,"h":36},
+		"sourceSize": {"w":38,"h":36}
+	},
+	{
+		"filename": "checkbox_checked",
+		"frame": {"x":0,"y":42,"w":38,"h":36},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":38,"h":36},
+		"sourceSize": {"w":38,"h":36}
+	},
+	{
+		"filename": "close",
+		"frame": {"x":146,"y":0,"w":38,"h":36},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":38,"h":36},
+		"sourceSize": {"w":38,"h":36}
+	},
+	{
+		"filename": "menu",
+		"frame": {"x":108,"y":0,"w":38,"h":36},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":38,"h":36},
+		"sourceSize": {"w":38,"h":36}
+	},
+	{
+		"filename": "panel",
+		"frame": {"x":76,"y":42,"w":100,"h":100},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+		"sourceSize": {"w":100,"h":100}
+	},
+	{
+		"filename": "radio",
+		"frame": {"x":36,"y":0,"w":36,"h":36},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+		"sourceSize": {"w":36,"h":36}
+	},
+	{
+		"filename": "radio_checked",
+		"frame": {"x":72,"y":0,"w":36,"h":36},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
+		"sourceSize": {"w":36,"h":36}
+	},
+	{
+		"filename": "slider",
+		"frame": {"x":8,"y":0,"w":28,"h":42},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":42},
+		"sourceSize": {"w":28,"h":42}
+	},
+	{
+		"filename": "slider_end",
+		"frame": {"x":0,"y":0,"w":8,"h":10},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":8,"h":10},
+		"sourceSize": {"w":8,"h":10}
+	},
+	{
+		"filename": "slider_horizontal",
+		"frame": {"x":0,"y":236,"w":190,"h":4},
+		"rotated": false,
+		"trimmed": false,
+		"spriteSourceSize": {"x":0,"y":0,"w":190,"h":4},
+		"sourceSize": {"w":190,"h":4}
+}],
+	"meta": {	
+		"version": "1.0",
+		"image": "pixel_ui.png",
+		"format": "RGBA8888",
+		"size": {"w":190,"h":240},
+		"scale": "1"
+	}
+}
