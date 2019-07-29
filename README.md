@@ -30,9 +30,9 @@
 
 
 ## Links
-[PLAY THE GAME](https://robertgirhiny.com/projects/great-run)
+[PLAY THE GAME](http://robertgirhiny.com/projects/great-run)
 
-[DOWNLOAD THE GAME FOR WINDOWS](https://robertgirhiny.com/projects/great-run/great_run.zip)
+[DOWNLOAD THE GAME FOR WINDOWS](http://robertgirhiny.com/projects/great-run/great_run.zip)
 
 
 
@@ -72,7 +72,7 @@ You can find the maps in ```/assets/JSON``` folder. The tile texture: ```/assets
 ## Author
 Robert Girhiny
 
-[WEB](https://robertgirhiny.com)
+[WEB](http://robertgirhiny.com)
 
 Email: robcaa@gmail.com
 
